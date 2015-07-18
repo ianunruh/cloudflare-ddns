@@ -4,7 +4,7 @@ Python dynamic DNS client for the CloudFlare v4 API
 
 ## Installation
 
-```
+```bash
 git clone https://github.com/ianunruh/cloudflare-ddns.git
 cd cloudflare-ddns
 
@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-```
+```bash
 export CF_EMAIL=YOUR_CLOUDFLARE_EMAIL
 export CF_API_KEY=YOUR_CLOUDFLARE_API_KEY
 
